@@ -1,0 +1,25 @@
+{
+    "name": "homeworld",
+    "title": "Homeworld 2d20",
+    "description": "The unofficial Homeworld 2d20 System for FoundryVTT",
+    "version": "0.0.1",
+    "minimumCoreVersion": "9",
+    "compatibleCoreVersion": "9",
+    "templateVersion": 1,
+    "author": "HappySteve",
+    "scripts": [],
+    "esmodules": ["module/homeworld.mjs"],
+    "styles": ["css/homeworld.css"],
+    "packs": [],
+    "languages": [{
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }],
+    "socket": true,
+    "gridDistance": 1,
+    "gridUnits": "m",
+    "url": "https://github.com/superseva/homeworld",
+    "manifest": "https://raw.githubusercontent.com/superseva/homeworld/master/system.json"
+  }
+  
