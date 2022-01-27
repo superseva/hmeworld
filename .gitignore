@@ -1,0 +1,20 @@
+# IDE
+.idea/
+.vs/
+
+# Node Modules
+node_modules/
+npm-debug.log
+
+# Gulp
+gulpfile.js
+package-lock.json
+package.json
+
+# Foundry
+*.lock
+
+# Releases and zips
+*.7z
+*.zip
+*.rar
